@@ -1,4 +1,4 @@
 # Bicycle Computing
 
-Using cryptography in novel ways.
+Using cryptography in novel ways
 
