@@ -17,7 +17,7 @@
         "name": "Simple AES",
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
-            "url": "https://github.com/bicycle-codes/simple-aes",
+            "url": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/README.md",
             "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
@@ -32,7 +32,7 @@
         "name": "Message",
         "description": "Create and verify signed messages.",
         "webpageUrl": {
-            "url": "https://github.com/bicycle-codes/message",
+            "url": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/README.md",
             "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
@@ -47,7 +47,7 @@
         "name": "Image",
         "description": "Create responsive image tags.",
         "webpageUrl": {
-            "url": "https://github.com/bicycle-codes/message",
+            "url": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/README.md",
             "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
@@ -62,7 +62,7 @@
         "name": "request",
         "description": "Use Bearer tokens with web crypto to authenticate http requests.",
         "webpageUrl": {
-            "url": "https://github.com/bicycle-codes/request",
+            "url": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/README.md",
             "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
