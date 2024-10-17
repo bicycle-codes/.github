@@ -1,0 +1,112 @@
+{
+    "version": "v0.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "maintainer",
+        "name": "Bicycle Computing",
+        "email": "nichoth@bicycle.codes",
+        "phone": "",
+        "description": "Creating tools for browsers and empowering users with cryptography",
+        "webpageUrl": {
+            "url": "https://bicycle.codes",
+            "wellKnown": "https://bicycle.codes/.well-known/funding-manifest-urls"
+        }
+    },
+    "projects": [{
+        "guid": "simple-aes",
+        "name": "Simple AES",
+        "description": "A dead simple way of working with symmetric keys in a browser or node",
+        "webpageUrl": {
+            "url": "https://github.com/bicycle-codes/simple-aes"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/bicycle-codes/simple-aes",
+            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/654091ff8151ffe8f3b82a561a9de6de00822f9f/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["cryptography", "AES", "browser"]
+    },
+    {
+        "guid": "@bicycle-codes/message",
+        "name": "Message",
+        "description": "Create and verify signed messages.",
+        "webpageUrl": {
+            "url": "https://github.com/bicycle-codes/message",
+            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/bicycle-codes/message",
+            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["message", "cryptography", "signature"]
+    },
+    {
+        "guid": "@bicycle-codes/image",
+        "name": "Image",
+        "description": "Create responsive image tags.",
+        "webpageUrl": {
+            "url": "https://github.com/bicycle-codes/message",
+            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/bicycle-codes/message",
+            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["image", "responsive", "browser"]
+    },
+    {
+        "guid": "@bicycle-codes/request",
+        "name": "request",
+        "description": "Use Bearer tokens with web crypto to authenticate http requests.",
+        "webpageUrl": {
+            "url": "https://github.com/bicycle-codes/request",
+            "wellKnown": "https://github.com/bicycle-codes/request/blob/d791b67ee5a825b2d07727f5772d5d201cfccba2/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/bicycle-codes/request",
+            "wellKnown": "https://github.com/bicycle-codes/request/blob/d791b67ee5a825b2d07727f5772d5d201cfccba2/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["cryptography", "headers", "http", "request"]
+    }],
+    "funding": {
+        "channels": [
+            {
+                "guid": "bank",
+                "type": "bank",
+                "description": "Will accept direct bank transfers. Please e-mail me for details."
+            },
+            {
+                "guid": "venmo",
+                "type": "payment-provider",
+                "address": "https://venmo.com/nichoth?txn=pay&audience=private&note=development",
+                "description": "Pay with your debit/credit card through Venmo and setup recurring subscriptions."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This will cover the cost of one developer working part-time on the projects.",
+                "amount": 6000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["bank", "venmo"]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 0,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["bank", "venmo"]
+            }
+        ]
+    }
+}
+
