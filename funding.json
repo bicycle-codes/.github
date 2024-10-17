@@ -13,7 +13,7 @@
         }
     },
     "projects": [{
-        "guid": "simple-aes",
+        "guid": "@bicycle-codes/simple-aes",
         "name": "Simple AES",
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
