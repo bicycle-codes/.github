@@ -17,8 +17,8 @@
         "name": "Simple AES",
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
-            "url": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/README.md",
-            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/.well-known/funding-manifest-urls"
+            "url": "https://bicycle.codes/projects/simple-aes",
+            "wellKnown": "https://bicycle.codes/projects/simple-aes/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/simple-aes",
@@ -32,8 +32,8 @@
         "name": "Message",
         "description": "Create and verify signed messages.",
         "webpageUrl": {
-            "url": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/README.md",
-            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/.well-known/funding-manifest-urls"
+            "url": "https://bicycle.codes/projects/message",
+            "wellKnown": "https://bicycle.codes/projects/message/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/message",
@@ -47,8 +47,8 @@
         "name": "Image",
         "description": "Create responsive image tags.",
         "webpageUrl": {
-            "url": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/README.md",
-            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/.well-known/funding-manifest-urls"
+            "url": "https://bicycle.codes/projects/image",
+            "wellKnown": "https://bicycle.codes/projects/image/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/message",
@@ -62,8 +62,8 @@
         "name": "request",
         "description": "Use Bearer tokens with web crypto to authenticate http requests.",
         "webpageUrl": {
-            "url": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/README.md",
-            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/.well-known/funding-manifest-urls"
+            "url": "https://github.com/bicycle-codes/request",
+            "wellKnown": "https://bicycle.codes/projects/image/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/request",
