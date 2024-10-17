@@ -21,8 +21,8 @@
             "wellKnown": "https://bicycle.codes/projects/simple-aes/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
-            "url": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/README.md",
-            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/.well-known/funding-manifest-urls"
+            "url": "https://bicycle.codes/projects/simple-aes",
+            "wellKnown": "https://bicycle.codes/projects/simple-aes/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["cryptography", "AES", "browser"]
