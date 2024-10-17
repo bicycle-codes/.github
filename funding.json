@@ -1,7 +1,7 @@
 {
     "version": "v1.0.0",
     "entity": {
-        "type": "organization",
+        "type": "organisation",
         "role": "maintainer",
         "name": "Bicycle Computing",
         "email": "nichoth@bicycle.codes",
