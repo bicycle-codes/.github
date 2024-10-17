@@ -21,7 +21,7 @@
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/simple-aes",
-            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/654091ff8151ffe8f3b82a561a9de6de00822f9f/.well-known/funding-manifest-urls"
+            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["cryptography", "AES", "browser"]
