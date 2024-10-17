@@ -18,11 +18,11 @@
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
             "url": "https://github.com/bicycle-codes/simple-aes",
-            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/main/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/simple-aes",
-            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/main/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/simple-aes/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["cryptography", "AES", "browser"]
@@ -33,11 +33,11 @@
         "description": "Create and verify signed messages.",
         "webpageUrl": {
             "url": "https://github.com/bicycle-codes/message",
-            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/message",
-            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/message/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["message", "cryptography", "signature"]
@@ -48,11 +48,11 @@
         "description": "Create responsive image tags.",
         "webpageUrl": {
             "url": "https://github.com/bicycle-codes/message",
-            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/message",
-            "wellKnown": "https://github.com/bicycle-codes/message/blob/03770130c9cf450c4ea79d20aad49dee949cddd4/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/image/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["image", "responsive", "browser"]
@@ -63,11 +63,11 @@
         "description": "Use Bearer tokens with web crypto to authenticate http requests.",
         "webpageUrl": {
             "url": "https://github.com/bicycle-codes/request",
-            "wellKnown": "https://github.com/bicycle-codes/request/blob/d791b67ee5a825b2d07727f5772d5d201cfccba2/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/request",
-            "wellKnown": "https://github.com/bicycle-codes/request/blob/d791b67ee5a825b2d07727f5772d5d201cfccba2/.well-known/funding-manifest-urls"
+            "wellKnown": "https://raw.githubusercontent.com/bicycle-codes/request/refs/heads/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:MIT"],
         "tags": ["cryptography", "headers", "http", "request"]
