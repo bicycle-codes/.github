@@ -17,7 +17,8 @@
         "name": "Simple AES",
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
-            "url": "https://github.com/bicycle-codes/simple-aes"
+            "url": "https://github.com/bicycle-codes/simple-aes",
+            "wellKnown": "https://github.com/bicycle-codes/simple-aes/blob/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/bicycle-codes/simple-aes",
