@@ -13,7 +13,7 @@
         }
     },
     "projects": [{
-        "guid": "bicycle-codes--simple-aes",
+        "guid": "bicycle-codes-simple-aes",
         "name": "Simple AES",
         "description": "A dead simple way of working with symmetric keys in a browser or node",
         "webpageUrl": {
@@ -27,7 +27,7 @@
         "tags": ["cryptography", "AES", "browser"]
     },
     {
-        "guid": "bicycle-codes--message",
+        "guid": "bicycle-codes-message",
         "name": "Message",
         "description": "Create and verify signed messages.",
         "webpageUrl": {
@@ -42,7 +42,7 @@
         "tags": ["message", "cryptography", "signature"]
     },
     {
-        "guid": "bicycle-codes--image",
+        "guid": "bicycle-codes-image",
         "name": "Image",
         "description": "Create responsive image tags.",
         "webpageUrl": {
@@ -57,7 +57,7 @@
         "tags": ["image", "responsive", "browser"]
     },
     {
-        "guid": "bicycle-codes--request",
+        "guid": "bicycle-codes-request",
         "name": "request",
         "description": "Use Bearer tokens with web crypto to authenticate http requests.",
         "webpageUrl": {
